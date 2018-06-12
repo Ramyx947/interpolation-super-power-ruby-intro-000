@@ -6,3 +6,4 @@ def print_business_card(person)
 end
 bob = ["Bob", 46, "Juggler", "555-555-555"]
 print_business_card(bob)
+print_business_card(stefani)
